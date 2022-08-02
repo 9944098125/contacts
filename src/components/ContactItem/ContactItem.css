@@ -1,0 +1,16 @@
+.profile-img{
+    height: 150px;
+    width: 120px;
+    margin-top: 20px;
+    border-radius: 12px;
+}
+.del-btn{
+    height: 40px;
+    width: 40px;
+    margin-left: 25px;
+}
+.table-data{
+    border-right: 2px solid rgb(10, 10, 10);
+    border-left: 2px solid rgb(10, 10, 10);
+    color: #ffffff;
+}
